@@ -55,6 +55,7 @@ func init() {
 	mime.AddExtensionType(".mobi", "application/x-mobipocket-ebook")
 	mime.AddExtensionType(".epub", "application/epub+zip")
 	mime.AddExtensionType(".cbz", "application/x-cbz")
+	mime.AddExtensionType(".cbr", "application/x-cbr")
 	mime.AddExtensionType(".fb2", "text/fb2+xml")
 }
 
